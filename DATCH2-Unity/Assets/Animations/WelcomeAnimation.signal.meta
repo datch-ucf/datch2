@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:DATCH2-Unity/Assets/Animations/WelcomeAnimation.signal.meta
+guid: 53a45be07153d354b8a3ba9929ef0156
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+========
+guid: f73a68001818eb44e8f4697d9cbf7f71
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+>>>>>>>> AdditionalFeatures2:DATCH2-Unity/Assets/Samples/Mixed Reality Toolkit Examples/2.8.0/Experimental - ColorPicker/Materials/LineColorPickerGradientMaterial.mat.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

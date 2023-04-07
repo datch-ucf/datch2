@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0261b3d9f0189d241b1a5fc05bfa2467
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - defaultBackplateMaterial: {instanceID: 0}
+  - defaultSpectrumMap: {instanceID: 0}
+  - indoorSpectrumMap: {instanceID: 0}
+  - outdoorSpectrumMap: {instanceID: 0}
+  - buttonIconMaterial: {fileID: 2100000, guid: ad6048289e33f33488d8ef9c94174c5c, type: 2}
+  - mainMenu: {fileID: 878583705219240667, guid: 0ae8f7858b901844bb923746ecf3a0a8, type: 3}
+  - customTextMaterial: {fileID: 2100000, guid: 42d2e35d2266f6a4186093e6ce86c238, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

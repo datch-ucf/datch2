@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DrawingPlane
+  - BrushPoint
+  - GrabPoint
+  - EndGrabPoint
+  - Line
+  - CurrentModeIndicator
+  - Curve
+  - Slider
+  - UI
+  - Undefined
+  - Peg
+  - Grip
+  - Menu
+  - Button
+  - Shape
+  - Fill
+  - DrawLineEmpty
+  - ManipulationButton
+  - ShapeHolder
+  - FreeDrawPoint
+  - MiniPegGridDPad
+  - PenDistanceSlider
+  - RecordingCamera
+  - ImagePlane
+  - CursorVisual
+  - GazeCursor
+  - PegGrid
+  - MeasuringTape
+  - MeasuringTapePoint
+  - SnapPoint
+  - EmptyGridPoint
+  - MeasuringCube
+  - Handle
+  - BezierControlPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - DrawingPlane
+  - Water
+  - UI
+  - Pen
+  - Shape
+  - Handle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Spatial Awareness
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

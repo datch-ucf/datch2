@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:DATCH2-Unity/Assets/Animations/WelcomeAnimation.signal.meta
+guid: e3034e8205c01294b87aebb23f35d182
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+========
+guid: 635529fd142f0cb4f9f310abeb275eb5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+>>>>>>>> Stable-Prior-To-Precision:DATCH2-Unity/Assets/Materials/CustomArticulatedHandMesh.mat.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

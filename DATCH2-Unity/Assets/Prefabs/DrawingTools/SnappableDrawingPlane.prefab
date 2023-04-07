@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6871595649194105152
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6871595649194105181}
+  - component: {fileID: 6871595649194105155}
+  - component: {fileID: 7065386398263954055}
+  m_Layer: 0
+  m_Name: SnappableDrawingPlane
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6871595649194105181
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6871595649194105152}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.17945977, y: 0.06413883, z: 0.021575943}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6871595649194105155
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6871595649194105152}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf12ee76e7e00a44a9a84256760020e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeList: []
+  ignoreInactiveTransforms: 1
+  sortType: 0
+  surfaceType: 1
+  orientType: 0
+  layout: 1
+  anchor: 4
+  anchorAlongAxis: 0
+  columnAlignment: 0
+  rowAlignment: 0
+  radius: 2
+  radialRange: 180
+  distance: 0
+  rows: 10
+  columns: 0
+  cellWidth: 1
+  cellHeight: 1
+  assetVersion: 1
+--- !u!114 &7065386398263954055
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6871595649194105152}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1d15a592b064ba408b149d92bcf8cf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gridPointsArr: []
+  gridPoint: {fileID: 4832100087435961710, guid: 4e14ffc3540481641b7d81d829593427, type: 3}
+  col1Startpoint: {fileID: 0}
+  col2Startpoint: {fileID: 0}
+  col3Startpoint: {fileID: 0}
+  col4Startpoint: {fileID: 0}
+  col5Startpoint: {fileID: 0}
+  col6Startpoint: {fileID: 0}
+  col7Startpoint: {fileID: 0}
+  col8Startpoint: {fileID: 0}
+  col9Startpoint: {fileID: 0}
+  col10Startpoint: {fileID: 0}
+  col1Endpoint: {fileID: 0}
+  col2Endpoint: {fileID: 0}
+  col3Endpoint: {fileID: 0}
+  col4Endpoint: {fileID: 0}
+  col5Endpoint: {fileID: 0}
+  col6Endpoint: {fileID: 0}
+  col7Endpoint: {fileID: 0}
+  col8Endpoint: {fileID: 0}
+  col9Endpoint: {fileID: 0}
+  col10Endpoint: {fileID: 0}
+  row1Startpoint: {fileID: 0}
+  row2Startpoint: {fileID: 0}
+  row3Startpoint: {fileID: 0}
+  row4Startpoint: {fileID: 0}
+  row5Startpoint: {fileID: 0}
+  row6Startpoint: {fileID: 0}
+  row7Startpoint: {fileID: 0}
+  row8Startpoint: {fileID: 0}
+  row9Startpoint: {fileID: 0}
+  row10Startpoint: {fileID: 0}
+  row1Endpoint: {fileID: 0}
+  row2Endpoint: {fileID: 0}
+  row3Endpoint: {fileID: 0}
+  row4Endpoint: {fileID: 0}
+  row5Endpoint: {fileID: 0}
+  row6Endpoint: {fileID: 0}
+  row7Endpoint: {fileID: 0}
+  row8Endpoint: {fileID: 0}
+  row9Endpoint: {fileID: 0}
+  row10Endpoint: {fileID: 0}
+  empty: {fileID: 1752822641041140492, guid: 7f9ebb42752ceaa48bf0c014a44b19c0, type: 3}

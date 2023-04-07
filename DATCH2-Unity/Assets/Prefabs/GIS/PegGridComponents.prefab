@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5800411808137547372
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5800411808137547373}
+  - component: {fileID: 5800411808137547344}
+  - component: {fileID: 5800411808137547347}
+  - component: {fileID: 5800411808137547346}
+  - component: {fileID: 5412245862421079751}
+  m_Layer: 0
+  m_Name: PegGrid
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5800411808137547373
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5800411808137547372}
+  m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5800411808270501961}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5800411808137547344
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5800411808137547372}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf12ee76e7e00a44a9a84256760020e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeList: []
+  ignoreInactiveTransforms: 1
+  sortType: 0
+  surfaceType: 1
+  orientType: 0
+  layout: 1
+  anchor: 4
+  anchorAlongAxis: 0
+  columnAlignment: 0
+  rowAlignment: 1
+  radius: 2
+  radialRange: 180
+  distance: 0
+  rows: 0
+  columns: -2147483648
+  cellWidth: 1
+  cellHeight: 2
+  assetVersion: 1
+--- !u!114 &5800411808137547347
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5800411808137547372}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a98de877dee5fc341b4eb59dfdab266c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  autoConstraintSelection: 1
+  selectedConstraints: []
+--- !u!114 &5800411808137547346
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5800411808137547372}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 020ee4c1798a3d243a4b8cbfee6cac2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &5412245862421079751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5800411808137547372}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d5b31433454eb64197eada953d63c2c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  numCols: 20
+  numRows: 20
+  numPegs: 400
+  colSpacing: 0
+  rowSpacing: 0
+  peg: {fileID: 5526970790103483474, guid: 579db06ecf6a02444a6630a478e7e50e, type: 3}
+  pegsArr: []
+  colSpacingSlider: {fileID: 0}
+  rowSpacingSlider: {fileID: 0}
+  colSpacingSliderText: {fileID: 0}
+  rowSpacingSliderText: {fileID: 0}
+  numRowsLabel: {fileID: 0}
+  numColsLabel: {fileID: 0}
+  spatialMeshList: []
+  gridIsPlaced: 0
+  miniPegGrid: {fileID: 0}
+  miniPeg: {fileID: 5526970790103483474, guid: 16c0ac591cf70b74aa570d13364079eb, type: 3}
+  clampXMin: -0.07
+  clampXMax: 0.07
+  clampYMin: -0.07
+  clampYMax: 0.07
+  clampZMin: 0
+  clampZMax: 0
+  miniPegGridScale: 1
+  dPadNumRows: 3
+  dPadNumCols: 3
+  dPadMarkersTotal: 9
+  dPadMarker: {fileID: 5526970790103483474, guid: e5a435b01ffe5bd44931b25af400979e, type: 3}
+  dPad: {fileID: 0}
+  dPadArr: []
+  menu: {fileID: 0}
+--- !u!1 &5800411808270501963
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5800411808270501961}
+  m_Layer: 0
+  m_Name: PegGridComponents
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5800411808270501961
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5800411808270501963}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5800411808137547373}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}

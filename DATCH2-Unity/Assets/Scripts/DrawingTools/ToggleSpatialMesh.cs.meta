@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a7cf1c1ae60441646a328e2fb6f428a6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pulseMat: {instanceID: 0}
+  - wireframeMat: {fileID: 15303, guid: 0000000000000000f000000000000000, type: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

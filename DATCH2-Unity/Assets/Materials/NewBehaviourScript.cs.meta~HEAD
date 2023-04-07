@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:DATCH2-Unity/Assets/Scripts/ShapeColliderResizer.cs.meta
+guid: 1b8eceee50ab250449d32b10a980a079
+========
+guid: 0f84373866351114fb4ce9fe9014d117
+>>>>>>>> Stable-Prior-To-Precision:DATCH2-Unity/Assets/Materials/NewBehaviourScript.cs.meta~HEAD
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

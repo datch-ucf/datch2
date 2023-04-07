@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1d5b31433454eb64197eada953d63c2c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - peg: {fileID: 5526970790103483474, guid: ff5785c7526f6e743a94370a44d70c5f, type: 3}
+  - xSpacingSlider: {fileID: 3126169382799059662, guid: 95ea01c08eb3c53438a5cfa80ab4745e, type: 3}
+  - ySpacingSlider: {fileID: 4441173016016046763, guid: 5716fe8cadf81cf4aa85f29a1c83b958, type: 3}
+  - xSpacingSliderText: {fileID: 7921321879448038336, guid: b1165c724b2430847b0455ff402f6538, type: 3}
+  - ySpacingSliderText: {fileID: 958956042296633575, guid: d67e5b78719f799438e782b5c04ab519, type: 3}
+  - numRowsLabel: {fileID: 7598142773700916257, guid: 5f38415359b67434a877fcc77260ad37, type: 3}
+  - numColsLabel: {fileID: 3613124829554068943, guid: 9f3eedb8c5b6c6c4cad75a73bf04a913, type: 3}
+  - elevationSlider: {fileID: 620609259261001046, guid: e8235adbe858c164e81e8a81a66dfaa3, type: 3}
+  - elevationSliderText: {fileID: 4780616026437538374, guid: 34126754550f5ae40ad2658c3f65f750, type: 3}
+  - miniPegGrid: {fileID: 6328626701605929734, guid: 58fef9da757c97e4e89f12f1c5decb98, type: 3}
+  - miniPeg: {fileID: 5526970790103483474, guid: 7ed662d354cc9f74da09916263feb995, type: 3}
+  - precisionLvlText: {fileID: 2331493825047121464, guid: c5373769db174b34a893ee550eddda9f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

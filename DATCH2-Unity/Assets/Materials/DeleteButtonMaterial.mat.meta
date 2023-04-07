@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:DATCH2-Unity/Assets/Prefabs/DrawingTools/Main Camera.prefab.meta
+guid: b8c94f07f004a7947806169a60745299
+PrefabImporter:
+  externalObjects: {}
+========
+guid: 8f731e10dd0fe5a49a4051e04fafa629
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+>>>>>>>> Dev-Merging:DATCH2-Unity/Assets/Materials/DeleteButtonMaterial.mat.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: af369d4a11efdae47b84b6658f6e2e56
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - customBoxDisplayConfig: {fileID: 11400000, guid: fbd7e9357f2ea034c94e755c90e45185, type: 2}
+  - customBoundingBoxSelectedMaterial: {fileID: 2100000, guid: 85af3bccd8e4c0a448e6d9161c39651a, type: 2}
+  - selectionTimer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:DATCH2-Unity/Assets/Scripts/DrawingTools/DuplicateShapeButton.cs.meta
+guid: 03c5429bcc7f8ef40b64653327287ee9
+========
+guid: ce650aae0baa67e4d9fcf534d2f83fcc
+>>>>>>>> GIS-And-Additional-Features:DATCH2-Unity/Assets/Scripts/DrawingTools/DrawingPlaneGridPoint.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

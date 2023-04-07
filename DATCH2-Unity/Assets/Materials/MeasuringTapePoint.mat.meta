@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:DATCH2-Unity/Assets/CustomConfigurations/BoundingBox/CustomMeasuringCubeScaleHandlesConfiguration.asset.meta
+guid: d49af7a56e4655a4fafeab2c09a8a875
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+========
+guid: 07530f962d34451459b821e4b560eb87
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+>>>>>>>> GIS-And-Additional-Features:DATCH2-Unity/Assets/Materials/MeasuringTapePoint.mat.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

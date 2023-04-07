@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:DATCH2-Unity/Assets/Scripts/GIS Scripts/GISManager.cs.meta
+<<<<<<<< HEAD:DATCH2-Unity/Assets/Scripts/GIS Scripts/GISManager.cs.meta
+guid: 4e8d98dfbd2432341b173db4bc43fdd4
+========
+guid: ce650aae0baa67e4d9fcf534d2f83fcc
+>>>>>>>> GIS-And-Additional-Features:DATCH2-Unity/Assets/Scripts/DrawingTools/DrawingPlaneGridPoint.cs.meta
+========
+guid: 09f7090085bc7894abb8a72fb9b5f2d3
+>>>>>>>> Dev-Merging:DATCH2-Unity/Assets/Scripts/GIS Scripts/PegProperties.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

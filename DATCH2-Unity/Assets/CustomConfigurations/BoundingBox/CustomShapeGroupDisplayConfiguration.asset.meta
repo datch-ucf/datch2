@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:DATCH2-Unity/Assets/Materials/PegMarked.mat.meta
+guid: 962b8d2605905354d8c6559b0b2caf03
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+========
+guid: dcb4618abeeed474e84763cbca5948c4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+>>>>>>>> Drawing-Tools:DATCH2-Unity/Assets/CustomConfigurations/BoundingBox/CustomShapeGroupDisplayConfiguration.asset.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

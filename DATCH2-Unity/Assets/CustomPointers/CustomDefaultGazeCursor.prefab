@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1000012072213228
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4000011792100794}
+  - component: {fileID: 114611684728110934}
+  m_Layer: 2
+  m_Name: CustomDefaultGazeCursor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4000011792100794
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000012072213228}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114611684728110934
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000012072213228}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c523107adbf4a9b8ca63b83f2f89aba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  surfaceCursorDistance: 0.02
+  useUnscaledTime: 1
+  positionLerpTime: 0.01
+  scaleLerpTime: 0.01
+  rotationLerpTime: 0.01
+  lookRotationBlend: 0
+  resizeCursorWithDistance: 1
+  cursorAngularSize: 50
+  PrimaryCursorVisual: {fileID: 0}
+  SourceDownIds: 
+  defaultCursorDistance: 2
+  cursorStateData:
+  - name: Observe
+    cursorState: 0
+    parameter:
+      parameterType: 3
+      defaultInt: 0
+      defaultFloat: 0
+      defaultBool: 0
+      name: CursorState
+  - name: ObserveHover
+    cursorState: 1
+    parameter:
+      parameterType: 3
+      defaultInt: 1
+      defaultFloat: 0
+      defaultBool: 0
+      name: CursorState
+  - name: Interact
+    cursorState: 2
+    parameter:
+      parameterType: 3
+      defaultInt: 2
+      defaultFloat: 0
+      defaultBool: 0
+      name: CursorState
+  - name: InteractHover
+    cursorState: 3
+    parameter:
+      parameterType: 3
+      defaultInt: 3
+      defaultFloat: 0
+      defaultBool: 0
+      name: CursorState
+  - name: Select
+    cursorState: 4
+    parameter:
+      parameterType: 3
+      defaultInt: 4
+      defaultFloat: 0
+      defaultBool: 0
+      name: CursorState
+  - name: Release
+    cursorState: 5
+    parameter:
+      parameterType: 3
+      defaultInt: 5
+      defaultFloat: 0
+      defaultBool: 0
+      name: CursorState
+  cursorContextData:
+  - name: None
+    cursorState: -1
+    parameter:
+      parameterType: 3
+      defaultInt: -1
+      defaultFloat: 0
+      defaultBool: 0
+      name: CursorContext
+  - name: MoveEastWest
+    cursorState: 0
+    parameter:
+      parameterType: 3
+      defaultInt: 0
+      defaultFloat: 0
+      defaultBool: 0
+      name: CursorContext
+  - name: MoveNorthSouth
+    cursorState: 1
+    parameter:
+      parameterType: 3
+      defaultInt: 1
+      defaultFloat: 0
+      defaultBool: 0
+      name: CursorContext
+  - name: MoveNorthwestSoutheast
+    cursorState: 2
+    parameter:
+      parameterType: 3
+      defaultInt: 2
+      defaultFloat: 0
+      defaultBool: 0
+      name: CursorContext
+  - name: MoveNortheastSouthwest
+    cursorState: 3
+    parameter:
+      parameterType: 3
+      defaultInt: 3
+      defaultFloat: 0
+      defaultBool: 0
+      name: CursorContext
+  - name: MoveCross
+    cursorState: 4
+    parameter:
+      parameterType: 3
+      defaultInt: 4
+      defaultFloat: 0
+      defaultBool: 0
+      name: CursorContext
+  - name: RotateEastWest
+    cursorState: 5
+    parameter:
+      parameterType: 3
+      defaultInt: 5
+      defaultFloat: 0
+      defaultBool: 0
+      name: CursorContext
+  - name: RotateNorthSouth
+    cursorState: 6
+    parameter:
+      parameterType: 3
+      defaultInt: 6
+      defaultFloat: 0
+      defaultBool: 0
+      name: CursorContext
+  inputEnabledParameter:
+    parameterType: 4
+    defaultInt: 0
+    defaultFloat: 0
+    defaultBool: 0
+    name: Waiting
+  inputDisabledParameter:
+    parameterType: 4
+    defaultInt: 0
+    defaultFloat: 0
+    defaultBool: 1
+    name: Waiting
+  cursorAnimator: {fileID: 0}
